@@ -1,0 +1,3 @@
+hello git
+
+Learning Git and GitHub with ChatGPT.
